@@ -15,14 +15,18 @@ Binders
 
 TCG Binders are now available through the TCG Collector villager. Binders now allow players to store, organize, and display their collections in customizable binders while tracking progress toward completing sets and master sets. Apprentice TCG Collector villagers offer small binders with a capacity of 150 card slots, while Master TCG Collector villagers offer large binders that have 300 tcg card slots.
 
+Pack pull rates
+
+A file for each set's odds is available at the [Github](https://github.com/domm-f/pokmontcg/) project page.
+
 Found a bug? Have a suggestion?
 
-Please report issues and leave feedback on GitHub so they can be tracked and fixed.
+Please report issues and leave feedback on [Github](https://github.com/domm-f/pokmontcg/) so they can be tracked and fixed.
 
 (Future plans) 
 - Bug Fixes
 
-I plan on fixing the glitched texture lines that are visible on cards with the enchant glint. I also plan to fix the direction TCG Collector villagers hold the Pokémon TCG blocks.  
+I plan on fixing the glitched texture lines that are visible on cards with the enchant glint. 
 - TCG Battles 
 
 A dedicated play mat system is planned for future updates. Until then, players can use item frames and storage blocks to create their own tabletop battle setups. I also plan on adding Theme decks and battle decks 
