@@ -1,0 +1,203 @@
+  Pool 1
+  Rolls: 5
+
+  Rarity odds:
+  - Common: per pack 100% (1/1); expected 5
+
+  Card odds:
+  - tcg:pgo_001: Bulbasaur [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_006: Spinarak [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_008: Charmander [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_013: Numel [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_015: Squirtle [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_019: Slowpoke [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_021: Magikarp [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_025: Wimpod [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_027: Pikachu [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_032: Natu [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_036: Onix [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_037: Larvitar [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_041: Alolan Rattata [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_042: Alolan Raticate [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_045: Meltan [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_054: Eevee [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_056: Aipom [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_057: Ambipom [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_059: Bidoof [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_060: Bibarel [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_061: Pidove [Common]: per pack 20.753% (1/5)
+  - tcg:pgo_062: Tranquill [Common]: per pack 20.753% (1/5)
+
+  Pool 2
+  Rolls: 1
+
+  Rarity odds:
+  - Common: per pack 41.6667% (1/2); expected 0.4167
+  - Uncommon: per pack 33.3333% (1/3); expected 0.3333
+  - Rare: per pack 25% (1/4); expected 0.25
+
+  Card odds:
+  - tcg:pgo_001: Bulbasaur [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_002: Ivysaur [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_003: Venusaur [Rare]: per pack 1.6667% (1/60)
+  - tcg:pgo_006: Spinarak [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_006_ditto: Spinarak [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_007: Ariados [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_008: Charmander [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_009: Charmeleon [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_010: Charizard [Rare]: per pack 1.6667% (1/60)
+  - tcg:pgo_012: Moltres [Rare]: per pack 1.6667% (1/60)
+  - tcg:pgo_013: Numel [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_013_ditto: Numel [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_014: Camerupt [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_015: Squirtle [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_016: Wartortle [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_017: Blastoise [Rare]: per pack 1.6667% (1/60)
+  - tcg:pgo_019: Slowpoke [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_020: Slowbro [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_021: Magikarp [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_022: Gyarados [Rare]: per pack 1.6667% (1/60)
+  - tcg:pgo_023: Lapras [Rare]: per pack 1.6667% (1/60)
+  - tcg:pgo_024: Articuno [Rare]: per pack 1.6667% (1/60)
+  - tcg:pgo_025: Wimpod [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_026: Golisopod [Rare]: per pack 1.6667% (1/60)
+  - tcg:pgo_027: Pikachu [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_028: Pikachu [Rare]: per pack 1.6667% (1/60)
+  - tcg:pgo_029: Zapdos [Rare]: per pack 1.6667% (1/60)
+  - tcg:pgo_032: Natu [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_033: Xatu [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_034: Lunatone [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_035: Sylveon [Rare]: per pack 1.6667% (1/60)
+  - tcg:pgo_036: Onix [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_037: Larvitar [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_038: Pupitar [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_039: Solrock [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_041: Alolan Rattata [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_042: Alolan Raticate [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_043: Tyranitar [Rare]: per pack 1.6667% (1/60)
+  - tcg:pgo_044: Steelix [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_045: Meltan [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_046: Melmetal [Rare]: per pack 1.6667% (1/60)
+  - tcg:pgo_051: Chansey [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_052: Blissey [Rare]: per pack 1.6667% (1/60)
+  - tcg:pgo_054: Eevee [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_055: Snorlax [Rare]: per pack 1.6667% (1/60)
+  - tcg:pgo_056: Aipom [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_057: Ambipom [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_059: Bidoof [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_059_ditto: Bidoof [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_060: Bibarel [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_061: Pidove [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_062: Tranquill [Common]: per pack 1.6667% (1/60)
+  - tcg:pgo_063: Unfezant [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_064: Blanche [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_065: Candela [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_066: Egg Incubator [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_067: Lure Module [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_068: PokéStop [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_069: Rare Candy [Uncommon]: per pack 1.6667% (1/60)
+  - tcg:pgo_070: Spark [Uncommon]: per pack 1.6667% (1/60)
+
+  Pool 3
+  Rolls: 1
+
+  Rarity odds:
+  - Rare: per pack 63.3803% (1/1.58); expected 0.6338
+  - Rare Holo V: per pack 12.6761% (1/8); expected 0.1268
+  - Radiant Rare: per pack 5.9155% (1/17); expected 0.0592
+  - Ultra Rare: per pack 5.6338% (1/18); expected 0.0563
+  - Rare Holo VSTAR: per pack 4.2254% (1/24); expected 0.0423
+  - Rainbow Rare: per pack 3.9437% (1/25); expected 0.0394
+  - Rare Holo VMAX: per pack 3.3803% (1/30); expected 0.0338
+  - Secret Rare: per pack 0.8451% (1/118); expected 0.0085
+
+  Card odds:
+  - tcg:pgo_003: Venusaur [Rare]: per pack 4.2254% (1/24)
+  - tcg:pgo_004: Radiant Venusaur [Radiant Rare]: per pack 1.9718% (1/51)
+  - tcg:pgo_005: Alolan Exeggutor V [Rare Holo V]: per pack 2.1127% (1/47)
+  - tcg:pgo_010: Charizard [Rare]: per pack 4.2254% (1/24)
+  - tcg:pgo_011: Radiant Charizard [Radiant Rare]: per pack 1.9718% (1/51)
+  - tcg:pgo_012: Moltres [Rare]: per pack 4.2254% (1/24)
+  - tcg:pgo_017: Blastoise [Rare]: per pack 4.2254% (1/24)
+  - tcg:pgo_018: Radiant Blastoise [Radiant Rare]: per pack 1.9718% (1/51)
+  - tcg:pgo_022: Gyarados [Rare]: per pack 4.2254% (1/24)
+  - tcg:pgo_023: Lapras [Rare]: per pack 4.2254% (1/24)
+  - tcg:pgo_024: Articuno [Rare]: per pack 4.2254% (1/24)
+  - tcg:pgo_026: Golisopod [Rare]: per pack 4.2254% (1/24)
+  - tcg:pgo_028: Pikachu [Rare]: per pack 4.2254% (1/24)
+  - tcg:pgo_029: Zapdos [Rare]: per pack 4.2254% (1/24)
+  - tcg:pgo_030: Mewtwo V [Rare Holo V]: per pack 2.1127% (1/47)
+  - tcg:pgo_031: Mewtwo VSTAR [Rare Holo VSTAR]: per pack 2.1127% (1/47)
+  - tcg:pgo_035: Sylveon [Rare]: per pack 4.2254% (1/24)
+  - tcg:pgo_040: Conkeldurr V [Rare Holo V]: per pack 2.1127% (1/47)
+  - tcg:pgo_043: Tyranitar [Rare]: per pack 4.2254% (1/24)
+  - tcg:pgo_046: Melmetal [Rare]: per pack 4.2254% (1/24)
+  - tcg:pgo_047: Melmetal V [Rare Holo V]: per pack 2.1127% (1/47)
+  - tcg:pgo_048: Melmetal VMAX [Rare Holo VMAX]: per pack 3.3803% (1/30)
+  - tcg:pgo_049: Dragonite V [Rare Holo V]: per pack 2.1127% (1/47)
+  - tcg:pgo_050: Dragonite VSTAR [Rare Holo VSTAR]: per pack 2.1127% (1/47)
+  - tcg:pgo_052: Blissey [Rare]: per pack 4.2254% (1/24)
+  - tcg:pgo_055: Snorlax [Rare]: per pack 4.2254% (1/24)
+  - tcg:pgo_058: Slaking V [Rare Holo V]: per pack 2.1127% (1/47)
+  - tcg:pgo_071: Alolan Exeggutor V [Ultra Rare]: per pack 0.7042% (1/142)
+  - tcg:pgo_072: Mewtwo V [Ultra Rare]: per pack 0.7042% (1/142)
+  - tcg:pgo_073: Conkeldurr V [Ultra Rare]: per pack 0.7042% (1/142)
+  - tcg:pgo_074: Conkeldurr V [Ultra Rare]: per pack 0.7042% (1/142)
+  - tcg:pgo_075: Melmetal V [Ultra Rare]: per pack 0.7042% (1/142)
+  - tcg:pgo_076: Dragonite V [Ultra Rare]: per pack 0.7042% (1/142)
+  - tcg:pgo_077: Slaking V [Ultra Rare]: per pack 0.7042% (1/142)
+  - tcg:pgo_078: Professor's Research [Ultra Rare]: per pack 0.7042% (1/142)
+  - tcg:pgo_079: Mewtwo VSTAR [Rainbow Rare]: per pack 0.5634% (1/178)
+  - tcg:pgo_080: Melmetal VMAX [Rainbow Rare]: per pack 0.5634% (1/178)
+  - tcg:pgo_081: Dragonite VSTAR [Rainbow Rare]: per pack 0.5634% (1/178)
+  - tcg:pgo_082: Blanche [Rainbow Rare]: per pack 0.5634% (1/178)
+  - tcg:pgo_083: Candela [Rainbow Rare]: per pack 0.5634% (1/178)
+  - tcg:pgo_084: Professor's Research [Rainbow Rare]: per pack 0.5634% (1/178)
+  - tcg:pgo_085: Spark [Rainbow Rare]: per pack 0.5634% (1/178)
+  - tcg:pgo_086: Mewtwo VSTAR [Secret Rare]: per pack 0.2817% (1/355)
+  - tcg:pgo_087: Egg Incubator [Secret Rare]: per pack 0.2817% (1/355)
+  - tcg:pgo_088: Lure Module [Secret Rare]: per pack 0.2817% (1/355)
+
+  Pool 4
+  Rolls: 3
+
+  Rarity odds:
+  - Uncommon: per pack 100% (1/1); expected 3
+
+  Card odds:
+  - tcg:pgo_002: Ivysaur [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_007: Ariados [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_009: Charmeleon [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_014: Camerupt [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_016: Wartortle [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_020: Slowbro [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_033: Xatu [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_034: Lunatone [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_038: Pupitar [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_039: Solrock [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_044: Steelix [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_051: Chansey [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_063: Unfezant [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_064: Blanche [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_065: Candela [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_066: Egg Incubator [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_067: Lure Module [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_068: PokéStop [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_069: Rare Candy [Uncommon]: per pack 14.2625% (1/7)
+  - tcg:pgo_070: Spark [Uncommon]: per pack 14.2625% (1/7)
+
+  Pool 5
+  Rolls: 1
+
+  Rarity odds:
+  - Sword & Shield Energies: per pack 100% (1/1); expected 1
+
+  Card odds:
+  - tcg:swshe_010: Basic Grass Energy [Sword & Shield Energies]: per pack 12.5% (1/8)
+  - tcg:swshe_011: Basic Fire Energy [Sword & Shield Energies]: per pack 12.5% (1/8)
+  - tcg:swshe_012: Basic Water Energy [Sword & Shield Energies]: per pack 12.5% (1/8)
+  - tcg:swshe_013: Basic Lightning Energy [Sword & Shield Energies]: per pack 12.5% (1/8)
+  - tcg:swshe_014: Basic Psychic Energy [Sword & Shield Energies]: per pack 12.5% (1/8)
+  - tcg:swshe_015: Basic Fighting Energy [Sword & Shield Energies]: per pack 12.5% (1/8)
+  - tcg:swshe_016: Basic Darkness Energy [Sword & Shield Energies]: per pack 12.5% (1/8)
+  - tcg:swshe_017: Basic Metal Energy [Sword & Shield Energies]: per pack 12.5% (1/8)

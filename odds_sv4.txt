@@ -637,3 +637,18 @@
   - tcg:sv4_243: Shauntal [Ultra Rare]: per pack 0.2119% (1/472)
   - tcg:sv4_244: Tulip [Ultra Rare]: per pack 0.2119% (1/472)
 
+  Pool 6
+  Rolls: 1
+
+  Rarity odds:
+  - Scarlet & Violet Energies: per pack 100% (1/1); expected 1
+
+  Card odds:
+  - tcg:sve_001: Basic Grass Energy [Scarlet & Violet Energies]: per pack 12.5% (1/8)
+  - tcg:sve_002: Basic Fire Energy [Scarlet & Violet Energies]: per pack 12.5% (1/8)
+  - tcg:sve_003: Basic Water Energy [Scarlet & Violet Energies]: per pack 12.5% (1/8)
+  - tcg:sve_004: Basic Lightning Energy [Scarlet & Violet Energies]: per pack 12.5% (1/8)
+  - tcg:sve_005: Basic Psychic Energy [Scarlet & Violet Energies]: per pack 12.5% (1/8)
+  - tcg:sve_006: Basic Fighting Energy [Scarlet & Violet Energies]: per pack 12.5% (1/8)
+  - tcg:sve_007: Basic Darkness Energy [Scarlet & Violet Energies]: per pack 12.5% (1/8)
+  - tcg:sve_008: Basic Metal Energy [Scarlet & Violet Energies]: per pack 12.5% (1/8)

@@ -275,7 +275,7 @@
   Rolls: 1
 
   Rarity odds:
-  - Rare: per pack 64.8649% (1/2); expected 0.6486
+  - Rare: per pack 64.8649% (1/1.54); expected 0.6486
   - Double Rare: per pack 27.027% (1/4); expected 0.2703
   - Ultra Rare: per pack 8.1081% (1/12); expected 0.0811
 
@@ -320,3 +320,19 @@
   - tcg:me4_113: Special Red Card [Ultra Rare]: per pack 0.4505% (1/222)
   - tcg:me4_114: Surfing Beach [Ultra Rare]: per pack 0.4505% (1/222)
   - tcg:me4_115: Tool Scrapper [Ultra Rare]: per pack 0.4505% (1/222)
+
+  Pool 6
+  Rolls: 1
+
+  Rarity odds:
+  - Mega Evolution Energies: per pack 100% (1/1); expected 1
+
+  Card odds:
+  - tcg:mee_001: Basic Grass Energy [Mega Evolution Energies]: per pack 12.5% (1/8)
+  - tcg:mee_002: Basic Fire Energy [Mega Evolution Energies]: per pack 12.5% (1/8)
+  - tcg:mee_003: Basic Water Energy [Mega Evolution Energies]: per pack 12.5% (1/8)
+  - tcg:mee_004: Basic Lightning Energy [Mega Evolution Energies]: per pack 12.5% (1/8)
+  - tcg:mee_005: Basic Psychic Energy [Mega Evolution Energies]: per pack 12.5% (1/8)
+  - tcg:mee_006: Basic Fighting Energy [Mega Evolution Energies]: per pack 12.5% (1/8)
+  - tcg:mee_007: Basic Darkness Energy [Mega Evolution Energies]: per pack 12.5% (1/8)
+  - tcg:mee_008: Basic Metal Energy [Mega Evolution Energies]: per pack 12.5% (1/8)

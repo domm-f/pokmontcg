@@ -254,7 +254,7 @@
   - Rare: per pack 24.5614% (1/4); expected 0.2456
   - Uncommon: per pack 24.5614% (1/4); expected 0.2456
   - Rare Holo EX: per pack 14.0351% (1/7); expected 0.1404
-  - Rare Ultra: per pack 8.7719% (1/11); expected 0.0877
+  - Ultra Rare: per pack 8.7719% (1/11); expected 0.0877
 
   Card odds:
   - tcg:xy1_001: Venusaur EX [Rare Holo EX]: per pack 1.7544% (1/57)
@@ -397,10 +397,9 @@
   - tcg:xy1_138: Darkness Energy [Common]: per pack 0.5848% (1/171)
   - tcg:xy1_139: Metal Energy [Common]: per pack 0.5848% (1/171)
   - tcg:xy1_140: Fairy Energy [Common]: per pack 0.5848% (1/171)
-  - tcg:xy1_141: Venusaur EX [Rare Ultra]: per pack 1.462% (1/68)
-  - tcg:xy1_142: Blastoise EX [Rare Ultra]: per pack 1.462% (1/68)
-  - tcg:xy1_143: Emolga EX [Rare Ultra]: per pack 1.462% (1/68)
-  - tcg:xy1_144: Yveltal EX [Rare Ultra]: per pack 1.462% (1/68)
-  - tcg:xy1_145: Skarmory EX [Rare Ultra]: per pack 1.462% (1/68)
-  - tcg:xy1_146: Xerneas EX [Rare Ultra]: per pack 1.462% (1/68)
-
+  - tcg:xy1_141: Venusaur EX [Ultra Rare]: per pack 1.462% (1/68)
+  - tcg:xy1_142: Blastoise EX [Ultra Rare]: per pack 1.462% (1/68)
+  - tcg:xy1_143: Emolga EX [Ultra Rare]: per pack 1.462% (1/68)
+  - tcg:xy1_144: Yveltal EX [Ultra Rare]: per pack 1.462% (1/68)
+  - tcg:xy1_145: Skarmory EX [Ultra Rare]: per pack 1.462% (1/68)
+  - tcg:xy1_146: Xerneas EX [Ultra Rare]: per pack 1.462% (1/68)
