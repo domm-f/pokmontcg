@@ -1,0 +1,51 @@
+  Pool 1
+  Rolls: 3
+
+  Rarity odds:
+  - Common: per pack 100% (1/1); expected 3
+
+  Card odds:
+  - tcg:det1_001: Bulbasaur [Common]: per pack 33.0078% (1/3)
+  - tcg:det1_003: Morelull [Common]: per pack 33.0078% (1/3)
+  - tcg:det1_004: Charmander [Common]: per pack 33.0078% (1/3)
+  - tcg:det1_007: Psyduck [Common]: per pack 33.0078% (1/3)
+  - tcg:det1_008: Magikarp [Common]: per pack 33.0078% (1/3)
+  - tcg:det1_014: Jigglypuff [Common]: per pack 33.0078% (1/3)
+  - tcg:det1_015: Snubbull [Common]: per pack 33.0078% (1/3)
+  - tcg:det1_016: Lickitung [Common]: per pack 33.0078% (1/3)
+
+  Pool 2
+  Rolls: 1
+
+  Rarity odds:
+  - Rare: per pack 60% (1/1.67); expected 0.6
+  - Ultra Rare: per pack 40% (1/2); expected 0.4
+
+  Card odds:
+  - tcg:det1_002: Ludicolo [Rare]: per pack 10% (1/10)
+  - tcg:det1_005: Charizard [Ultra Rare]: per pack 10% (1/10)
+  - tcg:det1_006: Arcanine [Rare]: per pack 10% (1/10)
+  - tcg:det1_009: Greninja [Ultra Rare]: per pack 10% (1/10)
+  - tcg:det1_010: Detective Pikachu [Rare]: per pack 10% (1/10)
+  - tcg:det1_011: Mr. Mime [Rare]: per pack 10% (1/10)
+  - tcg:det1_012: Mewtwo [Ultra Rare]: per pack 10% (1/10)
+  - tcg:det1_013: Machamp [Rare]: per pack 10% (1/10)
+  - tcg:det1_017: Ditto [Ultra Rare]: per pack 10% (1/10)
+  - tcg:det1_018: Slaking [Rare]: per pack 10% (1/10)
+
+  Pool 3
+  Rolls: 1
+
+  Rarity odds:
+  - Sun & Moon Energies: per pack 100% (1/1); expected 1
+
+  Card odds:
+  - tcg:sme_001: Basic Grass Energy [Sun & Moon Energies]: per pack 11.1111% (1/9)
+  - tcg:sme_002: Basic Fire Energy [Sun & Moon Energies]: per pack 11.1111% (1/9)
+  - tcg:sme_003: Basic Water Energy [Sun & Moon Energies]: per pack 11.1111% (1/9)
+  - tcg:sme_004: Basic Lightning Energy [Sun & Moon Energies]: per pack 11.1111% (1/9)
+  - tcg:sme_005: Basic Psychic Energy [Sun & Moon Energies]: per pack 11.1111% (1/9)
+  - tcg:sme_006: Basic Fighting Energy [Sun & Moon Energies]: per pack 11.1111% (1/9)
+  - tcg:sme_007: Basic Darkness Energy [Sun & Moon Energies]: per pack 11.1111% (1/9)
+  - tcg:sme_008: Basic Metal Energy [Sun & Moon Energies]: per pack 11.1111% (1/9)
+  - tcg:sme_009: Basic Fairy Energy [Sun & Moon Energies]: per pack 11.1111% (1/9)
