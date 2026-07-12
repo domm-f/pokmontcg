@@ -1,8 +1,11 @@
+!! LAGRE REWORK UPDATE COMING NEXT WEEK !!
+Sorry for delay..
+
 Bring the excitement of collecting Pokémon Trading Cards into Minecraft!
 
 Open booster packs, collect cards, complete sets, trade with friends, and build your ultimate collection. The mod includes different card rarities, secret cards, advancements, and exciting pulls rates inspired by the real Pokémon Trading Card Game.
 
-A brand-new set is released every Saturday!
+A brand-new set is released every other week!
 
 The next set is chosen by community voting through Google Polls, giving players a chance to decide what expansion gets added next. Sometimes the winning set will be selected directly from community requests, while other weeks may be chosen by a random wheel spin.
 [Google Form](https://forms.gle/4UwRXyqFAwQEHWhQ6)
