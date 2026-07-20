@@ -1,5 +1,5 @@
-!! LAGRE REWORK UPDATE COMING NEXT WEEK !!
-Sorry for delay..
+!! LAGRE REWORK UPDATE COMING !!
+
 
 Bring the excitement of collecting Pokémon Trading Cards into Minecraft!
 
